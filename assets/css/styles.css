@@ -1,1 +1,16 @@
+/* styles.css */
 
+.headline {
+	margin-top: 30px;
+	border-top: 2px solid #111111;
+	border-bottom: 2px solid #111111;
+}
+.col-8, .col-4 {
+	border: 1px solid red; 
+}
+
+h1, h3 {
+  font-family: "Aclonica", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
